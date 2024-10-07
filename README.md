@@ -13,9 +13,10 @@ To identify ICU readmission:
 2. **hospitalization**: `patient_id`, `hospitalization_id`, `admission_dttm`, `discharge_dttm`, `age_at_admission`
 3. **adt**: 'patient_id',`hospitalization_id`, `in_dttm`, 'out_dttm', 'location_name', 'location_category'
 
-Definition of ICU readmission: Any return to ICU after index ICU discharge, during the same hospitalization. (E.g., ICU --> Ward --> ICU, ICU --> Ward --> Other Hospital Area --> ICU)
-Definition of Planned ICU readmission: Any ICU readmissions that is directly associated with a scheduled procedure or intervention (E.g., ICU --> procedure --> ICU)
-Definition of Unplanned ICU readmission: Any ICU readmissions that exclude planned ICU readmissions 
+## Important definitions
+1. Definition of ICU readmission: Any return to ICU after index ICU discharge, during the same hospitalization. (E.g., ICU --> Ward --> ICU, ICU --> Ward --> Other Hospital Area --> ICU)
+2. Definition of Planned ICU readmission: Any ICU readmissions that is directly associated with a scheduled procedure or intervention (E.g., ICU --> procedure --> ICU)
+3. Definition of Unplanned ICU readmission: Any ICU readmissions that exclude planned ICU readmissions 
 
 ## Cohort identification
 Study period: January 1, 2020 to December 31, 2021 (2 years)
