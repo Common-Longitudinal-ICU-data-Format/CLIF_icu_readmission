@@ -10,9 +10,9 @@
    - Output Table 1
 
    Expected outputs:
-   - ICU readmission rate table
-   - Sankey plot: flow of patient movement 
-   - Table 1: patient demographic stratfied by readmitted vs not
+   - ICU Readmission Rate Table: A table detailing the readmission rates.
+   - Sankey Plot: A diagram visualizing the flow of patient movement between different hospital units.
+   - Table 1: A comprehensive breakdown of patient demographics, categorized by ICU readmission status (readmitted vs. not readmitted)
 
 
 
