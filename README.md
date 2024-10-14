@@ -29,25 +29,23 @@ Exclusion crtieria:
    2) Patients who were discharged immediately after their index ICU stay. 
 
 ## Expected Results
-Describe the output of the analysis. The final project results should be saved in the [`output/final`](output/README.md) directory.
+Sankey diagram - please review for unexpected bugs.
+Tableone split by ever readmitted vs not.
+The final project results should be saved in the [`output/final`](output/README.md) directory.
 
 ## Detailed Instructions for running the project
 
 ## 1. Setup Project Environment
-Describe the steps to setup the project environment. 
-
-Example for Python:
+Run this Python code in terminal:
 ```
-python3 -m venv .mobilization
-source .mobilization/bin/activate
+python3 -m venv readmit_venv
+source readmit_venv/bin/activate
 pip install -r requirements.txt 
 ```
 
-## 2. Update `config/config.json`
-Follow instructions in the [config/README.md](config/README.md) file for detailed configuration steps.
+## 2. Run code
+Detailed instructions provided in [code directory](code/README.md).
 
-## 3. Run code
-Detailed instructions on the code workflow are provided in the [code directory](code/README.md)
 ---
 
 
