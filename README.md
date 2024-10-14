@@ -31,7 +31,7 @@ Exclusion crtieria:
 ## Expected Results
 Sankey diagram - please review for unexpected bugs.
 Tableone split by ever readmitted vs not.
-The final project results should be saved in the [`output/final`](output/README.md) directory.
+Detailed readmission rates.
 
 ## Detailed Instructions for running the project
 
