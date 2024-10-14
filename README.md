@@ -40,7 +40,7 @@ Run this Python code in terminal:
 ```
 python3 -m venv readmit_venv
 source readmit_venv/bin/activate
-pip install -r requirements.txt 
+pip install -r code/requirements.txt 
 ```
 
 ## 2. Run code
