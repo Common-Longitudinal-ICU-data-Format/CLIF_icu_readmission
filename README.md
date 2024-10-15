@@ -11,7 +11,7 @@ Please refer to the online [CLIF data dictionary](https://clif-consortium.github
 To identify ICU readmission:
 1. **patient**: `patient_id`, `race_category`, `ethnicity_category`, `sex_category`, `death_dttm`
 2. **hospitalization**: `patient_id`, `hospitalization_id`, `admission_dttm`, `discharge_dttm`, `age_at_admission`
-3. **adt**: `patient_id`,`hospitalization_id`, `in_dttm`, `out_dttm`, `location_name`, `location_category`
+3. **adt**: 'patient_id',`hospitalization_id`, `in_dttm`, `out_dttm`, `location_name`, `location_category`
 
 ## Important definitions
 1. Definition of ICU readmission: Any return to ICU after index ICU discharge, during the same hospitalization. (E.g., ICU --> Ward --> ICU, ICU --> Ward --> Other Hospital Area --> ICU)

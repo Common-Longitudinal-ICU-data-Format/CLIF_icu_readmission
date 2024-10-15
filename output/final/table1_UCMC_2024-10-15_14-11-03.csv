@@ -1,0 +1,25 @@
+,,Grouped by readmission,Grouped by readmission,Grouped by readmission,Grouped by readmission
+,,Missing,Overall,Not Readmitted,Readmitted
+n,,,9347,8570,777
+"Age, median [Q1,Q3]",,0,"60.0 [45.0,70.0]","60.0 [44.0,70.0]","63.0 [51.0,73.0]"
+"ICU readmission, hours, median [Q1,Q3]",,8570,"62.5 [26.9,126.3]","nan [nan,nan]","62.5 [26.9,126.3]"
+"ICU length of stay, days, median [Q1,Q3]",,0,"2.1 [1.1,4.1]","2.0 [1.1,4.0]","2.8 [1.4,5.4]"
+"Sex, n (%)",Female,,4078 (43.6),3781 (44.1),297 (38.2)
+"Sex, n (%)",Male,,5269 (56.4),4789 (55.9),480 (61.8)
+"Race, n (%)",American Indian or Alaska Native,,17 (0.2),17 (0.2),
+"Race, n (%)",Asian,,158 (1.7),143 (1.7),15 (1.9)
+"Race, n (%)",Black or African American,,6249 (66.9),5738 (67.0),511 (65.8)
+"Race, n (%)",Native Hawaiian or Other Pacific Islander,,15 (0.2),14 (0.2),1 (0.1)
+"Race, n (%)",None,,29 (0.3),27 (0.3),2 (0.3)
+"Race, n (%)",Other,,369 (3.9),332 (3.9),37 (4.8)
+"Race, n (%)",Unknown,,173 (1.9),158 (1.8),15 (1.9)
+"Race, n (%)",White,,2337 (25.0),2141 (25.0),196 (25.2)
+"Ethnicity, n (%)",Hispanic,,544 (5.8),494 (5.8),50 (6.4)
+"Ethnicity, n (%)",Not Hispanic,,8663 (92.7),7951 (92.8),712 (91.6)
+"Ethnicity, n (%)",Unknown,,140 (1.5),125 (1.5),15 (1.9)
+"Initial hospital location, n (%)",ER,,6222 (66.6),5721 (66.8),501 (64.5)
+"Initial hospital location, n (%)",ICU,,775 (8.3),678 (7.9),97 (12.5)
+"Initial hospital location, n (%)",Procedural,,1640 (17.5),1550 (18.1),90 (11.6)
+"Initial hospital location, n (%)",Ward,,710 (7.6),621 (7.2),89 (11.5)
+"In-hospital Mortality, n (%)",Alive,,9129 (97.7),8478 (98.9),651 (83.8)
+"In-hospital Mortality, n (%)",Died,,218 (2.3),92 (1.1),126 (16.2)
