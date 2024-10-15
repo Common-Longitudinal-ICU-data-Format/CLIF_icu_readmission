@@ -1,2 +1,3 @@
 .DS_Store
 /readmit_venv
+config/config.json
