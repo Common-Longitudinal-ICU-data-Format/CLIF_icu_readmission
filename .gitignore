@@ -1,3 +1,4 @@
 .DS_Store
-readmit_venv/
+/readmit_venv
+config/config.json
 output/
